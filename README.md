@@ -1,5 +1,5 @@
-# SoloLearn
-##These applications can be helpful for beginners to learn programming languages.
+# SoloLearn#
+##These applications can be helpful for beginners to learn programming languages.##
 * C++
 * Java
 * Pathon
@@ -12,8 +12,8 @@
 * ...
 
 --------------
-##The following are the download links
-####【clik the flow icons to download】
+##The following are the download links ##
+####【clik the flow icons to download】####
 
 &nbsp;&nbsp;
 <a href="cplus.apk" target="_blank"><img src="https://github.com/lvze1992/SoloLearn/blob/master/1051.png" width="50px" height="50px"/></a>&nbsp;
@@ -23,5 +23,5 @@
 <a href="http://www.baidu.com"><img src="1014.png" width="50px" height="50px"/></a>&nbsp;
 <a href="http://www.baidu.com"><img src="1023.png" width="50px" height="50px"/></a><br/>
 
->After redirect, You may need to click ![](download2.PNG) to download.  ![](download.PNG)
+######After redirect, You may need to click ![](download2.PNG) to download.  ![](download.PNG)
 -------------
