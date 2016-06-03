@@ -14,7 +14,7 @@
 --------------
 ##The following are the download links
 ####【clik the flow icons to download】
- After redirect, You may need to click the ![](download2.PNG) to download.  ![](download.PNG) <br/>
+ After redirect, You may need to click ![](download2.PNG) to download.  ![](download.PNG) <br/>
 &nbsp;&nbsp;
 <a href="cplus.apk" target="_blank"><img src="1051.png" width="50px" height="50px"/></a>&nbsp;
 <a href="http://www.baidu.com"><img src="1068.png" width="50px" height="50px"/></a>&nbsp;
