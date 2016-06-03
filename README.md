@@ -23,5 +23,5 @@
 <a href="http://www.baidu.com"><img src="https://raw.githubusercontent.com/lvze1992/SoloLearn/master/1014.png" width="50px" height="50px"/></a>&nbsp;
 <a href="http://www.baidu.com"><img src="https://raw.githubusercontent.com/lvze1992/SoloLearn/master/1023.png" width="50px" height="50px"/></a><br/>
 
-######After redirect, You may need to click ![](download2.PNG) to download.  ![](download.PNG)
+######After redirect, You may need to click ![](https://raw.githubusercontent.com/lvze1992/SoloLearn/master/download2.PNG) to download.  ![](https://raw.githubusercontent.com/lvze1992/SoloLearn/master/download.PNG)
 -------------
