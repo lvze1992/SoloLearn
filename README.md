@@ -1,5 +1,5 @@
 # SoloLearn
-----------
+--------------
 ##This application can be helpful for beginners to learn programming language.
 * C++
 * Java
@@ -10,3 +10,6 @@
 * HTML
 * CSS
 * SQL
+* ...more
+--------------
+##The following is the download links
