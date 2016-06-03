@@ -16,7 +16,7 @@
 ####【clik the flow icons to download】####
 
 &nbsp;&nbsp;
-<a href="cplus.apk" target="_blank"><img src="https://raw.githubusercontent.com/lvze1992/SoloLearn/master/1051.png" width="50px" height="50px"/></a>&nbsp;
+<a href="https://raw.githubusercontent.com/lvze1992/SoloLearn/master/cplus.apk" target="_blank"><img src="https://raw.githubusercontent.com/lvze1992/SoloLearn/master/1051.png" width="50px" height="50px"/></a>&nbsp;
 <a href="http://www.baidu.com"><img src="https://raw.githubusercontent.com/lvze1992/SoloLearn/master/1068.png" width="50px" height="50px"/></a>&nbsp;
 <a href="http://www.baidu.com"><img src="https://raw.githubusercontent.com/lvze1992/SoloLearn/master/1024.png" width="50px" height="50px"/></a>&nbsp;
 <a href="http://www.baidu.com"><img src="https://raw.githubusercontent.com/lvze1992/SoloLearn/master/1059.png" width="50px" height="50px"/></a>&nbsp;
